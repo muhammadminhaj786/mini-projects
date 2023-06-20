@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    height: 600px;
+}
+.container{
+    height: 70%;
+    width: 70%;
+    border: 1px solid black;
+    margin: 10% auto;
+    background-color: white;
+    box-shadow: black;
+}
+.img{
+    height: 90%;
+    width: 100%;
+    border:  1px solid red;
+}
+.btns{
+    height: 10%;
+    width: 100%;
+    border: 1px solid blue;
+}
+.btns button{
+    height: 40px;
+    width: 140px;
+    background-color: aqua;
+    border: none;
+}
